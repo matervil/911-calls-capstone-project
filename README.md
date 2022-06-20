@@ -5,10 +5,13 @@ This is a project for practicing data analysis using Python. This project is par
 
 ### Data and Setup
 In this part we invoke the libraries we are going to be using:
-Markup : * Pandas
-         * Numpy
-         * Matplotlib
-         * Seaborn
+
+<ol>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Matplotlib</li>
+  <li>Seaborn</li>
+</ol>
 
 ### Basic Questions
 
