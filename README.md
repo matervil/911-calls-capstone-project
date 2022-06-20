@@ -1,0 +1,2 @@
+# 911 Calls - Capstone Project
+This is a project for practicing data analysis using Python. This project is part of a series of practical exercises in the Python for Data Science and Machine Learning Bootcamp course. 
